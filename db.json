@@ -3,36 +3,26 @@
     {
       "id": "1",
       "title": "Versace Eros",
-      "vote_average": "2.2",
-      "poster_path": "https://picsum.photos/id/237/200/300",
       "overview": "good"
     },
     {
       "id": "2",
       "title": "Noob",
-      "vote_average": "3.2",
-      "poster_path": "https://picsum.photos/seed/picsum/200/300",
       "overview": "fine"
     },
     {
       "id": "3",
       "title": "Loool",
-      "vote_average": "1.2",
-      "poster_path": "https://picsum.photos/200/300?grayscale",
       "overview": "wonder"
     },
     {
       "id": "4",
       "title": "Kek",
-      "vote_average": "4.2",
-      "poster_path": "https://picsum.photos/200/300/?blur",
       "overview": "beauty"
     },
     {
       "id": "5",
       "title": "Puuuk",
-      "vote_average": "3.2",
-      "poster_path": "https://picsum.photos/id/870/200/300?grayscale&blur=2",
       "overview": "horror"
     }
   ]
